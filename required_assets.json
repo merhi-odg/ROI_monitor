@@ -8,7 +8,7 @@
     },
     {
         "usage": "ADDITIONAL_ASSET",
-        "assetRole":"CONFIG_FILE",
+        "assetRole":"UNKNOWN",
         "name": ".*\\.json",
         "filename": "config.json",
         "metaData": {
